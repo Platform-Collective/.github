@@ -7,7 +7,7 @@
 
 ## What we are
  
-Platform Collective is the community organization that maintains the platform under open governance. The platform itself is an open-source fork of the [Huly Platform](https://github.com/hcengineering/platform) *(the project's own name is still to be decided)*. We preserve the upstream license and authorship, stay technically compatible where reasonable, and contribute improvements back where we can.
+Platform Collective is the community organization that maintains the platform under open governance. The platform itself is an open-source fork of the [Huly Platform](https://github.com/hcengineering/platform). We preserve the upstream license and authorship, stay technically compatible where reasonable, and contribute improvements back where we can.
  
 ## Key principles
  
