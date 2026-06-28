@@ -8,7 +8,7 @@ reviews.
  
 - **Open and meritocratic.** Anyone can contribute; influence is earned through
   sustained, good-faith work. The path from first contribution to maintainer is
-  described in [`GOVERNANCE.md`](https://github.com/Platform-Collective/platform/blob/main/GOVERNANCE.md).
+  described in [`GOVERNANCE.md`](https://github.com/Platform-Collective/.github/blob/main/GOVERNANCE.md).
 - **Transparent.** Significant decisions happen in the open, in issues and
   discussions, with a written record.
 - **Quality first.** We value clear, well-tested, well-typed code and helpful
