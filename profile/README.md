@@ -18,11 +18,11 @@ Platform Collective is the community organization that maintains the platform un
 - **Respect for upstream** — license, authorship, and compatibility preserved.
 ## How it works
  
-Roles form an open ladder: **User → Contributor → Member → Maintainer**, with an active **Council** of maintainers as the decision-making body. Everyday work runs on lazy consensus; significant matters go to a recorded vote with a clear quorum and tie-breaking. See [`GOVERNANCE.md`](./GOVERNANCE.md) for the details.
+Roles form an open ladder: **User → Contributor → Member → Maintainer**, with an active **Council** of maintainers as the decision-making body. Everyday work runs on lazy consensus; significant matters go to a recorded vote with a clear quorum and tie-breaking. See [`GOVERNANCE.md`](../GOVERNANCE.md) for the details.
  
 ## Get involved
  
-- **Contribute:** see [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+- **Contribute:** see [`CONTRIBUTING.md`](../CONTRIBUTING.md).
 - **Discuss:** join the Discussions to propose ideas or raise issues.
 Let's give the project the future it deserves.
  
