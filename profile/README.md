@@ -23,7 +23,7 @@ Roles form an open ladder: **User → Contributor → Member → Maintainer**, w
 ## Get involved
  
 - **Contribute:** see [`CONTRIBUTING.md`](../CONTRIBUTING.md).
-- **Discuss:** join the Discussions to propose ideas or raise issues.
+- **Discuss:** join the [Discussions](https://github.com/orgs/Platform-Collective/discussions) to propose ideas or raise issues.
 Let's give the project the future it deserves.
  
 ---
